@@ -1,8 +1,6 @@
 # Manreader
 A php program that's designed to view manuscripts.
 
-An example of it in action can be found at: https://karpeles.com/johnAdMonDoct.php
-
 ## What is Manreader?
 
 Manuscripts often have messy handwriting, and can be difficult to read. 
